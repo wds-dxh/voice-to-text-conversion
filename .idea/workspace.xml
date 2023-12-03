@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f571908-de0d-4f59-a07f-8e64e48b3cb8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../手势识别/QT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/main.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/warn-main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/build/main/xref-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/ddd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/背景.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../手势识别/背景2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2023年中国大学生机械工程创新创意大赛物流技术（起重机）创意赛通知-附件1 报名汇总表（预报名和决赛报名通用）.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/2018214567-但佳宇-基于STM32的实时图像图像采集系统设计.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/~$18214567-但佳宇-基于STM32的实时图像图像采集系统设计.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/~$iot项目书.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/DebugConfig/Target_1_STM32F103C8_1.0.0.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/AD.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/AD.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/DHT11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/DHT11.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/Key.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/Key.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/LED.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/LED.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/MySPI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/MySPI.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/MyUSART.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/MyUSART.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/NRF24L01.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/NRF24L01.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/OLED.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/OLED.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/OLED_Font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/PWM.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Hardware/PWM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/misc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/misc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_adc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_bkp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_bkp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_can.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_cec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_cec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_crc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dac.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dbgmcu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dbgmcu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_fsmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_iwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_rtc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_sdio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_sdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_wwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Library/stm32f10x_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Listings/Project.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Listings/startup_stm32f10x_md.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/Project_Target 1.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/ad.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/ad.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/ad.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/core_cm3.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/core_cm3.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/core_cm3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/delay.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/delay.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/delay.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/dht11.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/dht11.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/dht11.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/dht11.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/esp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/esp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/esp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/key.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/key.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/key.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/led.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/led.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/led.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/misc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/misc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/misc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myspi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myspi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myspi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myusart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myusart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/myusart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/nrf24l01.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/nrf24l01.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/nrf24l01.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/oled.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/oled.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/oled.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/pwm.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/pwm.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/pwm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/startup_stm32f10x_md.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/startup_stm32f10x_md.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_adc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_adc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_bkp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_bkp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_bkp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_can.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_can.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_cec.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_cec.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_cec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_crc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_crc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_crc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dac.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dac.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dbgmcu.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dbgmcu.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dbgmcu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_exti.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_exti.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_flash.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_flash.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_fsmc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_fsmc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_i2c.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_i2c.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_i2c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_it.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_it.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_iwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_iwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_iwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_pwr.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_pwr.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rcc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rcc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rtc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rtc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_rtc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_sdio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_sdio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_sdio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_spi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_spi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_usart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_usart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_wwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_wwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/stm32f10x_wwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/system_stm32f10x.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/system_stm32f10x.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/system_stm32f10x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/timer.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/timer.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Objects/timer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Project.uvguix.24970" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Project.uvguix.wds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Project.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Project.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/core_cm3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_cl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_hd.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_hd_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_ld.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_ld_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_md.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_md_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/startup_stm32f10x_xl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/system_stm32f10x.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/Start/system_stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/System/Delay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/System/Delay.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/System/Timer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/System/Timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/esp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/esp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/stm32f10x_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/stm32f10x_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/User/stm32f10x_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统 - 副本/keilkill.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/DebugConfig/Target_1_STM32F103C8_1.0.0.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/AD.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/AD.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/DHT11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/DHT11.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/Key.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/Key.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/LED.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/LED.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/MySPI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/MySPI.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/MyUSART.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/MyUSART.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/NRF24L01.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/NRF24L01.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/OLED.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/OLED.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/OLED_Font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/PWM.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Hardware/PWM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/misc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/misc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_adc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_bkp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_bkp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_can.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_cec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_cec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_crc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dac.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dbgmcu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dbgmcu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_fsmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_iwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_rtc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_sdio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_sdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_wwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Library/stm32f10x_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Listings/Project.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Listings/startup_stm32f10x_md.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/Project_Target 1.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/ad.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/ad.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/ad.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/core_cm3.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/core_cm3.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/core_cm3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/delay.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/delay.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/delay.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/dht11.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/dht11.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/dht11.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/esp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/esp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/esp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/key.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/key.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/key.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/led.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/led.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/led.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/misc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/misc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/misc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myspi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myspi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myspi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myusart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myusart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/myusart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/nrf24l01.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/nrf24l01.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/nrf24l01.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/oled.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/oled.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/oled.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/pwm.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/pwm.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/pwm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/startup_stm32f10x_md.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/startup_stm32f10x_md.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_adc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_adc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_bkp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_bkp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_bkp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_can.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_can.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_cec.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_cec.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_cec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_crc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_crc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_crc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dac.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dac.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dbgmcu.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dbgmcu.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dbgmcu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_exti.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_exti.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_flash.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_flash.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_fsmc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_fsmc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_i2c.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_i2c.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_i2c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_it.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_it.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_iwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_iwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_iwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_pwr.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_pwr.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rcc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rcc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rtc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rtc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_rtc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_sdio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_sdio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_sdio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_spi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_spi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_usart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_usart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_wwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_wwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/stm32f10x_wwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/system_stm32f10x.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/system_stm32f10x.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/system_stm32f10x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/timer.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/timer.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Objects/timer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Project.uvguix.24970" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Project.uvguix.wds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Project.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Project.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/core_cm3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_cl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_hd.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_hd_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_ld.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_ld_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_md.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_md_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/startup_stm32f10x_xl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/system_stm32f10x.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/Start/system_stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/System/Delay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/System/Delay.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/System/Timer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/System/Timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/esp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/esp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/stm32f10x_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/stm32f10x_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/User/stm32f10x_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于stm32的环境检测系统/keilkill.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/基于物联网的居家环境监测系统设计_岳锐.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/绘图1.eddx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/绘图5.eddx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../华为iot/重邮传感器，智能家居环境检测.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/2023年重庆邮电大学电子设计竞赛设计报告书写及封面装订说明.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/2023年重庆邮电大学电子设计竞赛设计报告封面.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/core_cm3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_cl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_hd.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_hd_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_ld.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_ld_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_md.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_md_vl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup/startup_stm32f10x_xl.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/startup_stm32f10x_hd.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/system_stm32f10x.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CMSIS/system_stm32f10x.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.uvguix.wds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.uvproj.saved_uv4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun_Target 1.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun_uvopt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/CarRun_uvproj.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/DebugConfig/Target_1_STM32F103C8_1.0.0.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/misc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_bkp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_cec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_dbgmcu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_sdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/inc/stm32f10x_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/misc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_adc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_bkp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_can.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_cec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_crc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_dac.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_dbgmcu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_fsmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_iwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_rtc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_sdio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/FWlib/src/stm32f10x_wwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/JLink Regs CM3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/JLinkLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/JLinkSettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/APP/app_motor.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/APP/app_motor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/APP/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/APP/stm32f10x_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/APP/sys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/back/TIMER.C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/back/timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp_motor.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/BSP/bsp_motor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/4针脚I2C版本/OLED.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/4针脚I2C版本/OLED.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/4针脚I2C版本/OLED_Font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/delay/delay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/delay/delay.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/sys/sys.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/sys/sys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/usart/usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Source/PUBLIC/usart/usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/Target 1.BAT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun_Target 1.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/CarRun_sct.Bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/app_motor.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/app_motor.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/app_motor.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/app_motor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_gpio.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_motor.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_motor.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_motor.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/bsp_motor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/core_cm3.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/core_cm3.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/core_cm3.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/core_cm3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/delay.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/delay.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/delay.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/delay.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/iic.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/iic.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/iic.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/iic.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/main.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/misc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/misc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/misc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/misc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/oled.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/oled.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/oled.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/oled.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/startup_stm32f10x_md._ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/startup_stm32f10x_md._ia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/startup_stm32f10x_md.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/startup_stm32f10x_md.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_adc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_adc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_adc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_bkp.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_bkp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_bkp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_bkp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_can.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_can.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_can.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_cec.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_cec.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_cec.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_cec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_crc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_crc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_crc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_crc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dac.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dac.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dac.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dbgmcu.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dbgmcu.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dbgmcu.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dbgmcu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dma.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_exti.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_exti.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_exti.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_flash.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_flash.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_flash.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_fsmc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_fsmc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_fsmc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_gpio.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_i2c.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_i2c.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_i2c.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_i2c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_iwdg.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_iwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_iwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_iwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_pwr.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_pwr.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_pwr.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rcc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rcc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rcc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rtc.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rtc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rtc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_rtc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_sdio.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_sdio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_sdio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_sdio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_spi.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_spi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_spi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_tim.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_usart.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_usart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_usart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_wwdg.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_wwdg.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_wwdg.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/stm32f10x_wwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/sys.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/sys.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/sys.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/sys.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/system_stm32f10x.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/system_stm32f10x.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/system_stm32f10x.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/system_stm32f10x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/usart.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/usart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/usart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/output/usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/STM32四驱车运动库函数版本/startup_stm32f10x_md.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/track_car/track_car.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/track_car/track_car.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/摄像头基础控制板块.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电赛小车/材料.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/2023年中国大学生机械工程创新创意大赛物流技术（起重机）创意赛通知-附件1 报名汇总表（预报名和决赛报名通用）.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/2023年中国大学生机械工程创新创意大赛物流技术（起重机）创意赛通知-附件2 作品报名表.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/已经第一次报账.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/发票/杜邦线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/发票/电池.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/发票/螺丝螺母.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/发票/霍尔传感器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/发票/麦克纳姆轮.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/支付记录/杜邦线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/支付记录/航模电池以及充电器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/支付记录/螺丝以及螺母.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/支付记录/霍尔传感器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/支付记录/麦克纳姆轮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/清单.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/订单截图/杜邦线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/订单截图/电池.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/订单截图/螺丝螺母.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/订单截图/霍尔传感器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/第一次已报账/购买 - 第一次提交/订单截图/麦克纳姆轮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/草稿.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/ARDUINO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/agv磁条.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/dcdc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/t插.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/杜邦线.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/步进电机以及驱动模块.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/步进电机支架.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/气泵.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/电池.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/螺丝螺母.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/霍尔传感器.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/发票/麦克纳姆轮.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/42步进电机驱动器以及步进电机就.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/T插.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/agv循迹磁条.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/arduino开发板.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/多路开关电源.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/机械洗盘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/杜邦线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/步进电机支架.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/航模电池以及充电器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/螺丝以及螺母.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/霍尔传感器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/支付记录/麦克纳姆轮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/清单.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/T插.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/arduino.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/多路开关电源.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/机械洗盘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/杜邦线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/步进电机以及驱动器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/步进电机支架.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/电池.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/磁条2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/螺丝螺母.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/霍尔传感器.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/购买/订单截图/麦克纳姆轮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../起重机/起重机实现方案.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YsrOl225fwA1fC8sKpNNifHrfa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.AipSpeech (1).executor": "Run",
+    "Python.AipSpeech.executor": "Run",
+    "Python.QT.executor": "Run",
+    "Python.Read voice.executor": "Run",
+    "Python.Read_voice.executor": "Run",
+    "Python.asr_json.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/information submitted/比赛提交资料/双屏聋哑人交流装置/pi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\information submitted\比赛提交资料\双屏聋哑人交流装置\pi" />
+      <recent name="D:\information submitted\比赛提交资料\双屏聋哑人交流装置\pi\aip-python-sdk-4.16.13" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\information submitted\比赛提交资料\双屏聋哑人交流装置\pi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="AipSpeech (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AipSpeech.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Read voice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read voice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Read_voice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_voice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.AipSpeech (1)" />
+        <item itemvalue="Python.QT" />
+        <item itemvalue="Python.Read_voice" />
+        <item itemvalue="Python.Read voice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d84064030637-9e8a10399a4a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7f571908-de0d-4f59-a07f-8e64e48b3cb8" name="更改" comment="" />
+      <created>1701325097568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701325097568</updated>
+      <workItem from="1701325098660" duration="26000" />
+      <workItem from="1701325132767" duration="4725000" />
+      <workItem from="1701330466740" duration="8012000" />
+      <workItem from="1701352854073" duration="2714000" />
+      <workItem from="1701506412935" duration="1438000" />
+      <workItem from="1701522216083" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aip/ocr.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pi$AipSpeech.coverage" NAME="AipSpeech 覆盖结果" MODIFIED="1701326583127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aip-python-sdk-4.16.13" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test 覆盖结果" MODIFIED="1701506633848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pi$Read_voice.coverage" NAME="Read_voice 覆盖结果" MODIFIED="1701331721901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pi$QT.coverage" NAME="QT 覆盖结果" MODIFIED="1701339586509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$QT.coverage" NAME="QT 覆盖结果" MODIFIED="1701355892411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$AipSpeech__1_.coverage" NAME="AipSpeech (1) 覆盖结果" MODIFIED="1701355899694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pi$AipSpeech__1_.coverage" NAME="AipSpeech (1) 覆盖结果" MODIFIED="1701352080735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pi$asr_json.coverage" NAME="asr_json 覆盖结果" MODIFIED="1701325944855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
