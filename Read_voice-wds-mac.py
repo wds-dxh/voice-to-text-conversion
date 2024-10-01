@@ -1,8 +1,20 @@
+'''
+Author: wds-dxh wdsnpshy@163.com
+Date: 2024-04-11 17:24:58
+LastEditors: wds-dxh wdsnpshy@163.com
+LastEditTime: 2024-04-18 17:37:05
+FilePath: /语音转文字部分/Read_voice.py
+Description:    读取音频文件
+微信: 15310638214 
+邮箱：wdsnpshy@163.com 
+Copyright (c) 2024 by ${wds-dxh}, All Rights Reserved. 
+'''
 import pyaudio   #pyaudio录音模块
 import wave      # wava模块是Python中处理WAV音频文件的模块
 input_filename = ".wav"               # 麦克风采集的语音输入
 input_filepath = "音频"              # 输入文件的path
 in_path = input_filepath + input_filename
+#pip install pyaudio -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 def get_audio(filepath):
     # aa = str(input("是否开始录音？   （是/否）"))
